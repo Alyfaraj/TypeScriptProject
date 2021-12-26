@@ -1,0 +1,2 @@
+export const LOADING_MOVIES = 'LOADING_MOVIES'
+export const SET_MOVIES = 'SET_MOVIES'
